@@ -1,0 +1,8 @@
+[[Qt5QuickControls2]]
+arch = "x86_64"
+git-tree-sha1 = "efaa8c29e5646995725c1dd22b54e6fce14b82ba"
+os = "macos"
+
+    [[Qt5QuickControls2.download]]
+    sha256 = "d643c75e7e32fcf5b8a933cc8936e04c01f749e6902a8fd3c80ada3509df0e04"
+    url = "https://github.com/barche/Qt5QuickControls2_jll.jl/releases/download/Qt5QuickControls2-v5.15.2+0/Qt5QuickControls2.v5.15.2.x86_64-apple-darwin.tar.gz"
